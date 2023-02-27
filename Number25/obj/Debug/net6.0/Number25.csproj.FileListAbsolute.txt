@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Test4/Number25/bin/Debug/net6.0/Number25
+/Users/admin/Desktop/Test4/Number25/bin/Debug/net6.0/Number25.deps.json
+/Users/admin/Desktop/Test4/Number25/bin/Debug/net6.0/Number25.runtimeconfig.json
+/Users/admin/Desktop/Test4/Number25/bin/Debug/net6.0/Number25.dll
+/Users/admin/Desktop/Test4/Number25/bin/Debug/net6.0/Number25.pdb
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.AssemblyInfo.cs
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.dll
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/refint/Number25.dll
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.pdb
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/Number25.genruntimeconfig.cache
+/Users/admin/Desktop/Test4/Number25/obj/Debug/net6.0/ref/Number25.dll
